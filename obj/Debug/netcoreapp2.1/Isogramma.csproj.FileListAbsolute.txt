@@ -1,0 +1,14 @@
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\Isogramma.deps.json
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\Isogramma.runtimeconfig.json
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\Isogramma.runtimeconfig.dev.json
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\Isogramma.dll
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\bin\Debug\netcoreapp2.1\Isogramma.pdb
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\obj\Debug\netcoreapp2.1\Isogramma.csprojAssemblyReference.cache
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\obj\Debug\netcoreapp2.1\Isogramma.csproj.CoreCompileInputs.cache
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\obj\Debug\netcoreapp2.1\Isogramma.AssemblyInfoInputs.cache
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\obj\Debug\netcoreapp2.1\Isogramma.AssemblyInfo.cs
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\obj\Debug\netcoreapp2.1\Isogramma.dll
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Lettere\obj\Debug\netcoreapp2.1\Isogramma.pdb
